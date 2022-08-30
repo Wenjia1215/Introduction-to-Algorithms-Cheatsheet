@@ -1,6 +1,7 @@
 # Introduction-to-Algorithms-Cheatsheet
 ### Summary of "Introduction to Algorithms" (3rd Edition)
 #### Wenjia Wang
+#### 8-29-2022
 <br/>
 <br/>
 Contents<br/>
