@@ -6,7 +6,7 @@
 <br/>
 Contents<br/>
 
-###### I Foundations
+##### I Foundations
     [1. The Role of Algorithms in Computing](#1. The Role of Algorithms in Computing)
     2. Getting Started
     3. Growth of Functions
