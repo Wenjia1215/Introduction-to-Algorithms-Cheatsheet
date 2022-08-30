@@ -1,6 +1,6 @@
 # Introduction-to-Algorithms-Cheatsheet
 Summary of "Introduction to Algorithms" (3rd Edition)
-
+Wenjia Wang
 Contents<br/>
 I Foundations<br/>
   1. The Role of Algorithms in Computing<br/>
