@@ -12,18 +12,18 @@
 3. [Growth of Functions](#growth-of-functions)
 4. [Divide & Conquer](#divide&conquer)
 5. [Probabilistic Analysis & Randomized Algorithms](#probabilistic-analysis-and-randomized-algorithms)
-###### II Sorting and Order Statistics<br/>
+## II Sorting and Order Statistics<br/>
     6. Heapsort
     7. Quicksort
     8. Sorting in Linear Time
     9. Medians & Order Statistics
-###### III Data Structures
+## III Data Structures
     10. Elementary Data Structures
     11. Hash Tables
     12. Binary Search Trees
     13. Red-Black Trees
     14. Augmenting Data Structures
-###### IV Advanced Design and Analysis Techniques
+## IV Advanced Design and Analysis Techniques
     15. Dynamic Programming
     16. Greedy Algorithms
     17. Amortized Analysis
@@ -31,7 +31,7 @@
     19. Fibonacci Heaps
     20. Van Emde Boas Trees
     21. Data Structures for Disjoint Sets
-###### V Advanced Data Structures
+## V Advanced Data Structures
     22. Elementary Graph Algorithms
     23. Minimum Spanning Trees
     24. Single-Source Shortest Paths
@@ -47,17 +47,17 @@
     33. Computational Geometry
     34. NP-Completeness
     35. Approximation Algorithms
-###### VII Selected Topics
-###### VIII Appendix: Mathematical Background
+## VII Selected Topics
+## VIII Appendix: Mathematical Background
 
 
-1. ##### The Role of Algorithms in Computing
-    -1.1 Algorithms
+1. ### The Role of Algorithms in Computing
+    #### -1.1 Algorithms
 An algorithm is thus a sequence of computational steps that transform the
 input into the output.
-    -1.2 Algorithms as a technology
+    #### -1.2 Algorithms as a technology
 
-2. ##### Getting Started
-3. ##### Growth of Functions
-4. ##### Divide & Conquer
-5. ##### Probabilistic Analysis and Randomized Algorithms
+2. ### Getting Started
+3. ### Growth of Functions
+4. ### Divide & Conquer
+5. ### Probabilistic Analysis and Randomized Algorithms
