@@ -54,3 +54,8 @@
 1. ##### The Role of Algorithms in Computing
 An algorithm is thus a sequence of computational steps that transform the
 input into the output.
+
+2. ##### Getting Started
+3. ##### Growth of Functions
+4. ##### Divide & Conquer
+5. ##### Probabilistic Analysis & Randomized Algorithms
