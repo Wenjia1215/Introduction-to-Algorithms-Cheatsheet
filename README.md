@@ -51,6 +51,6 @@ Contents<br/>
 ###### VIII Appendix: Mathematical Background
 
 
-##### 1. The Role of Algorithms in Computing
+1. ##### The Role of Algorithms in Computing
 An algorithm is thus a sequence of computational steps that transform the
 input into the output.
