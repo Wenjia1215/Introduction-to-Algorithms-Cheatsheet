@@ -5,11 +5,11 @@
 <br/>
 Contents<br/>
 
-###### I Foundations<br/>
-    1. The Role of Algorithms in Computing<br/>
-    2. Getting Started<br/>
-    3. Growth of Functions<br/>
-    4. Divide & Conquer<br/>
+###### I Foundations
+    1. The Role of Algorithms in Computing
+    2. Getting Started
+    3. Growth of Functions
+    4. Divide & Conquer
     5. Probabilistic Analysis & Randomized Algorithms<br/>
 ###### II Sorting and Order Statistics<br/>
     6. Heapsort<br/>
