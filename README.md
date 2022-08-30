@@ -11,7 +11,7 @@
 2. [Getting Started](#getting-started)
 3. [Growth of Functions](#growth-of-functions)
 4. [Divide & Conquer](#divide&conquer)
-5. [Probabilistic Analysis & Randomized Algorithms](#probabilistic-analysis-\&-randomized-algorithms)
+5. [Probabilistic Analysis & Randomized Algorithms](#probabilistic-analysis-and-randomized-algorithms)
 ###### II Sorting and Order Statistics<br/>
     6. Heapsort
     7. Quicksort
@@ -58,4 +58,4 @@ input into the output.
 2. ##### Getting Started
 3. ##### Growth of Functions
 4. ##### Divide & Conquer
-5. ##### Probabilistic Analysis & Randomized Algorithms
+5. ##### Probabilistic Analysis and Randomized Algorithms
